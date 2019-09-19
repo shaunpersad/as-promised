@@ -1,0 +1,22 @@
+{
+  "name": "as-promised",
+  "version": "1.0.0",
+  "description": "A promise implementation for educational purposes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "promises-aplus-tests adapter"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaunpersad/as-promised.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shaunpersad/as-promised/issues"
+  },
+  "homepage": "https://github.com/shaunpersad/as-promised#readme",
+  "devDependencies": {
+    "promises-aplus-tests": "^2.1.2"
+  }
+}

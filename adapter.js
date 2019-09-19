@@ -1,4 +1,4 @@
-const AsPromised = require('./index');
+const { AsPromised } = require('./index');
 
 module.exports = {
     resolved(value) {
